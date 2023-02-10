@@ -1,4 +1,4 @@
-﻿Console.Write("Введите число: ");
+﻿Console.Write("Введите день недели: ");
 int number = Convert.ToInt32(Console.ReadLine());
 
 switch (number)
